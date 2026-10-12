@@ -51,7 +51,7 @@ A screen, camera, presentation, and screenshot capture product with real-time co
 
 - Built concurrent screen/camera capture, device preflight, canvas composition, annotations, and privacy regions
 - Added review, trim, rotation, export, PWA/offline behavior, and browser/device compatibility handling
-- Established an Electron desktop foundation, native save/export flows, Windows packaging, and automated end-to-end tests
+- Established an Electron desktop foundation, native save/export flows, Windows x64 release packaging, Windows ARM64 packaging/verification foundations, and automated end-to-end tests
 
 `TypeScript` · `Media APIs` · `Canvas` · `MediaRecorder` · `Vite` · `PWA` · `Electron` · `Playwright`
 
