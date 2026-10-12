@@ -1,201 +1,273 @@
-# Abdul Wajid Nasir
+<p align="center">
+  <strong>Abdul Wajid Nasir</strong>
+</p>
 
-**Software Engineer building backend systems, AI-powered workflows, SaaS products, and eCommerce platforms.**
+<h1 align="center">Software Engineer · Backend & AI Engineering</h1>
 
-I’m a software engineer from Lahore, Pakistan with 5+ years of production experience across Magento / Adobe Commerce, Laravel, Vue.js, APIs, integrations, and backend systems.
+<p align="center">
+  Python · FastAPI · LLM/RAG · SaaS · Laravel/Vue.js · Magento / Adobe Commerce
+</p>
 
-Most of my professional work has been around building and maintaining real business applications: checkout flows, payment and shipping integrations, custom modules, admin workflows, API-driven features, data synchronization, database-backed systems, and production debugging.
-
-I’m currently focused on applied AI engineering with Python, FastAPI, LLM APIs, RAG systems, embeddings, structured outputs, and backend AI workflows.
-
-I’m open to remote roles, freelance projects, contract work, and long-term client collaborations.
+<p align="center">
+  <a href="https://abdulwajid.vercel.app/">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/abdul-wajid-nasir/">LinkedIn</a>
+  ·
+  <a href="mailto:abdul.wajid.dev018@gmail.com">Email</a>
+</p>
 
 ---
 
-## What I Work On
+## About
 
-### AI Engineering & Python Backends
+I'm a Software Engineer with 5+ years of production experience across backend systems, APIs, integrations, SaaS applications, Laravel/Vue.js, and Magento/Adobe Commerce.
+
+My background is rooted in production engineering: building business features, integrating external systems, working with databases, debugging live applications, supporting deployments, and maintaining software after release.
+
+My more recent work extends that experience into Python, FastAPI, and practical AI systems — including LLM APIs, RAG, embeddings, structured outputs, provider abstraction, validation, retrieval, logging, and production-oriented AI workflows.
+
+I've also been building independent products including **Rapid Sales Force** and **CaptureSlate**, expanding my work across multi-tenant SaaS architecture, AI-backed workflows, browser/media engineering, desktop applications, and release engineering.
+
+I'm currently open to **remote full-time roles, contract opportunities, and selected freelance projects**.
+
+---
+
+## Engineering Focus
+
+### AI Engineering & Python
 
 - Python and FastAPI backend development
-- LLM API integrations for practical product workflows
-- RAG-based Q&A and knowledge systems
-- Embeddings, retrieval, prompt workflows, and structured outputs
-- Pydantic validation, retries, error handling, and clean API design
+- LLM API integration and provider abstraction
+- Retrieval-Augmented Generation (RAG)
+- Embeddings, retrieval, and context construction
+- Structured outputs and Pydantic validation
+- Prompt workflows, retries, error handling, and observability
 
-### Backend APIs & SaaS Systems
+### Backend & SaaS Engineering
 
-- REST API development
-- Database-backed business workflows
-- SaaS product architecture and multi-tenant concepts
-- Admin and tenant dashboards
-- Third-party integrations and automation workflows
-- Logging, debugging, deployment, and production support
+- REST APIs and backend services
+- Multi-tenant SaaS architecture
+- PostgreSQL/MySQL-backed workflows
+- Redis and background processing
+- Third-party integrations and automation
+- Production debugging, deployment, and system reliability
 
-### Laravel, Vue.js & Web Applications
+### Web & Product Engineering
 
-- Laravel backend features
-- Vue.js interfaces and dashboards
-- Filters, listings, internal tools, and business workflows
-- MySQL/PostgreSQL-backed application features
-- API integrations and data synchronization
+- Laravel and Vue.js applications
+- TypeScript, Next.js, and NestJS
+- Browser/media APIs and real-time application workflows
+- Docker, NGINX, AWS, Azure, and PM2
 
 ### Magento / Adobe Commerce
 
-- Magento 2 custom module development
-- Adobe Commerce upgrades and compatibility fixes
+- Magento 2 / Adobe Commerce development
+- Version upgrades and compatibility work
 - Checkout customization
 - Payment and shipping integrations
-- Catalog, admin, storefront, and order workflow updates
-- Bug fixing, performance improvements, and production maintenance
+- Catalog, customer, admin, and order workflows
+- Production troubleshooting and stabilization
 
 ---
 
-## Featured Work
+# Selected Work
 
-### Rapid Sales Force — AI-Powered Multi-Tenant SaaS Platform
+## Rapid Sales Force — AI-Powered Multi-Tenant SaaS
 
-A multi-tenant SaaS platform for sales and business development teams to manage leads, job opportunities, tenant workspaces, AI-assisted content generation, and workflow tracking.
+**Live:** [rapidsalesforce.live](https://rapidsalesforce.live/)
 
-My work covered:
+Multi-tenant SaaS platform for sales and business-development teams, combining lead and job-opportunity workflows with AI-assisted application and content-generation features.
 
-- Multi-tenant SaaS architecture planning
-- Backend APIs with NestJS and TypeScript
-- Frontend structure with Next.js
-- PostgreSQL database design
-- Redis and queue-based background processing
-- AI integration planning for CV generation, cover letters, job analysis, and application answers
-- Docker/Azure deployment with NGINX, SSL, PM2, PostgreSQL, and Redis
-- Production debugging around DNS, SSL, builds, memory limits, and reverse proxy setup
+**Engineering work**
 
-**Tech:** Next.js, NestJS, TypeScript, PostgreSQL, Redis, Docker, NGINX, Azure, Tailwind CSS, BullMQ, Socket.io, AI APIs
+- Multi-tenant SaaS architecture and tenant data isolation
+- Next.js frontend and NestJS/TypeScript backend
+- PostgreSQL and Redis
+- BullMQ background processing
+- Socket.io realtime workflows
+- AI-provider integration and abstraction
+- CV and cover-letter generation workflows
+- Job-description analysis and application-answer generation
+- Docker, NGINX, SSL, PM2, and production deployment
+- Production troubleshooting across DNS, proxying, builds, memory, and infrastructure
 
----
-
-### RAG Q&A API — Python / FastAPI
-
-A FastAPI-based RAG Q&A project that retrieves relevant context from documents and generates cited answers using an LLM.
-
-My work covered:
-
-- Document chunking and retrieval flow
-- Prompt construction with retrieved context
-- LLM-based answer generation
-- Cited response format
-- Pydantic validation and error handling
-
-**Tech:** Python, FastAPI, LLM APIs, RAG, Embeddings, Pydantic, REST APIs
+**Stack:** Next.js · NestJS · TypeScript · PostgreSQL · Redis · BullMQ · Socket.io · Docker · NGINX · Azure · AI APIs
 
 ---
 
-### LLM Content Generation API
+## CaptureSlate — Privacy-First Recording & Capture Studio
 
-A backend API for generating structured AI content using LLM providers with validation, retries, logging, and clean API design.
+**Live:** [captureslate.vercel.app](https://captureslate.vercel.app/)  
+**Downloads:** [captureslate.vercel.app/download](https://captureslate.vercel.app/download)
 
-My work covered:
+Privacy-first product for screen, camera, presentation, and screenshot capture with recording, real-time composition, presenter tooling, transcription, review, and export workflows.
 
-- FastAPI endpoint design
-- Prompt-based content generation
-- Request/response validation with Pydantic
-- Structured JSON output handling
-- Retry handling for failed or malformed responses
-- Logging of prompts, outputs, latency, and errors
+**Engineering work**
 
-**Tech:** Python, FastAPI, Pydantic, LLM APIs, REST APIs, JSON Schema
+- Screen, camera, and presenter capture
+- Camera, microphone, display permissions, and device preflight
+- Concurrent screen + camera workflows
+- Real-time canvas composition and presenter layouts
+- Annotations and privacy regions
+- Local transcription and media processing
+- Review, trim, rotation, and export workflows
+- Browser/device compatibility handling
+- PWA/offline support
+- Electron desktop foundation
+- Native save/export and desktop protocol handling
+- Windows x64 release packaging
+- Windows ARM64 packaging and verification foundation
+- Automated and end-to-end testing
+
+**Stack:** TypeScript · Browser Media APIs · Canvas APIs · MediaRecorder · Web APIs · Vite · PWA · Service Workers · Electron · Playwright
 
 ---
 
-### Laravel & Magento Production Work
+## RAG Q&A API — Python / FastAPI
 
-I have worked on multiple Laravel and Magento / Adobe Commerce projects involving integrations, upgrades, checkout changes, catalog workflows, storefront updates, and production support.
+FastAPI-based retrieval pipeline for document Q&A using retrieved evidence to produce grounded, cited answers.
 
-Selected work includes:
+**Engineering work**
+
+- Document ingestion and chunking
+- Embeddings and retrieval
+- Context construction
+- Grounded prompt generation
+- Cited responses
+- Pydantic validation
+- Retrieval/error diagnostics
+
+**Stack:** Python · FastAPI · LLM APIs · RAG · Embeddings · Pydantic
+
+---
+
+## Multi-Provider AI Integration
+
+Provider abstraction layer for using multiple LLM providers without coupling application business logic to a single vendor.
+
+**Engineering work**
+
+- Shared provider interface
+- Configuration-driven provider selection
+- Model/token/temperature/output configuration
+- Provider failure handling
+- Extensible integration structure
+
+**Stack:** Python · FastAPI · OpenAI API · Groq · Gemini · OpenRouter · Pydantic
+
+---
+
+## LLM Content Generation API
+
+Backend API for structured AI content generation with explicit request/response contracts and operational safeguards.
+
+**Engineering work**
+
+- FastAPI endpoints
+- Pydantic request/response validation
+- Structured output handling
+- Provider separation
+- Retry and timeout handling
+- Malformed-response handling
+- Prompt/output/error logging
+
+**Stack:** Python · FastAPI · Pydantic · LLM APIs · REST APIs
+
+---
+
+## Production Laravel & Magento Work
+
+Professional work across Laravel applications and Magento/Adobe Commerce platforms.
+
+Highlights include:
 
 - Laravel integrations with Resware, Snowflake, OneDrive, and custom APIs
-- Magento 2.3 to 2.4.x upgrades
-- Drupal to Magento migration support
-- Checkout and shipping workflow improvements
+- Magento 2.3 → 2.4.x upgrades
+- Drupal → Magento migration work
+- Checkout and shipping customization
 - Custom payment integrations
-- Storefront, admin, catalog, and order workflow fixes
-- Bug fixing and post-deployment stabilization
+- Catalog, storefront, admin, and order workflows
+- Production debugging and post-deployment stabilization
 
-**Tech:** PHP, Laravel, Magento 2, Adobe Commerce, MySQL, JavaScript, REST APIs, Snowflake, OneDrive API
-
----
-
-## Tech Stack
-
-**AI & Python**  
-Python · FastAPI · LLM APIs · RAG · Embeddings · Prompt Engineering · Structured Outputs · Pydantic
-
-**Backend & APIs**  
-REST APIs · API Integration · Backend Development · SaaS Development · Multi-Tenant Architecture · System Design · Logging · Error Handling
-
-**Web Development**  
-PHP · Laravel · Vue.js · TypeScript · Next.js · NestJS · Tailwind CSS
-
-**eCommerce**  
-Magento 2 · Adobe Commerce · Checkout Customization · Payment Gateway Integration · Shipping Methods · Catalog Management · Magento Upgrades
-
-**Databases & DevOps**  
-MySQL · PostgreSQL · Redis · Docker · NGINX · Azure · PM2 · Git
+**Stack:** PHP · Laravel · Vue.js · Magento 2 · Adobe Commerce · MySQL · REST APIs · Snowflake · OneDrive API
 
 ---
 
-## Experience Snapshot
+# Tech Stack
 
-**Senior Software Engineer — Nexius LLC**  
-Dec 2021 – Present
+### AI & Python
 
-Working on production web applications, eCommerce platforms, backend features, API integrations, and client-specific software solutions.
+`Python` · `FastAPI` · `LLM APIs` · `LLM Engineering` · `RAG` · `Embeddings` · `Prompt Engineering` · `Structured Outputs` · `Pydantic` · `Retrieval`
 
-**Software Engineer — PHPStudios**  
-Dec 2020 – Dec 2021
+### Backend & Architecture
 
-Worked on PHP, Laravel, Magento, MySQL, frontend/backend updates, bug fixes, and production support.
+`REST APIs` · `API Integration` · `SaaS` · `Multi-Tenant Architecture` · `System Design` · `Background Processing` · `Logging` · `Error Handling`
 
-**Senior Magento Developer — Bemeir LLC**  
-Jul 2021 – Sep 2024 · Remote / Self-employed
+### Web & Product
 
-Worked remotely on Magento 2 stores, upgrades, customizations, checkout/catalog fixes, bug fixing, and production support.
+`PHP` · `Laravel` · `Vue.js` · `TypeScript` · `Next.js` · `NestJS` · `Tailwind CSS` · `Electron` · `Playwright`
 
----
+### eCommerce
 
-## Certifications
+`Magento 2` · `Adobe Commerce` · `Checkout Customization` · `Payment Integration` · `Shipping Integration` · `Magento Upgrades`
 
-- [**Adobe Certified Professional — Adobe Commerce Developer**](https://certification.adobe.com/credential/verify/f0b96a0c-20f4-41eb-afce-3f57652fd913)
-  - Earners of this credential are developers who are beginning their career as a Adobe Commerce Developer and have the skills and knowledge of Magento 2 in the areas of UI modifications, database changes, admin modifications, customizations, catalog and checkout structure, and functionality changes.
-- [**PHP Certification — TestDome**](https://www.testdome.com/certificates/3216eef7004e4cd39d3868a71086bc9e)
-  - TestDome is an online skills tests platform that uses work-sample testing methodology to screen knowledge workers. Candidates are evaluated through small samples of actual work that show how they solve problems in the real world.
+### Data & Infrastructure
+
+`MySQL` · `PostgreSQL` · `Redis` · `Docker` · `NGINX` · `AWS` · `Azure` · `PM2` · `Git` · `BullMQ` · `Socket.io`
 
 ---
 
-## Current Focus
+# Experience
 
-I’m building stronger depth in applied AI engineering by working through practical backend-focused topics:
+### Senior Software Engineer — Nexius
+**Jul 2022 – Oct 2026 · Lahore, Pakistan**
 
-- LLM API integration
-- RAG and knowledge systems
-- Embeddings and retrieval improvement
-- Structured outputs and validation
-- FastAPI-based AI services
-- AI workflows for SaaS and business applications
+Worked across production eCommerce platforms, backend applications, API integrations, client-specific software solutions, and technical leadership.
 
-The goal is to connect AI features with the same backend practices that matter in production: clean APIs, validation, logging, error handling, useful data flow, and maintainable architecture.
+My responsibilities expanded from Magento/Adobe Commerce into Laravel/Vue.js applications, broader backend development, integrations, production support, and Python/FastAPI/AI-backed workflows.
+
+### Senior Magento Developer — Bemeir LLC
+**Jul 2021 – Sep 2024 · Freelance · Remote**
+
+Worked on Magento maintenance, upgrades, custom features, checkout/catalog workflows, compatibility fixes, and production troubleshooting.
+
+### Software Engineer — PHPStudios
+**Jul 2021 – Jul 2022 · Lahore, Pakistan**
+
+Worked across PHP, Laravel, Magento, MySQL, application features, integrations, bug fixes, and production support.
 
 ---
 
-## Contact
+# Certifications
 
-I’m available for remote backend, AI, SaaS, Laravel, Vue.js, and Magento / Adobe Commerce work.
+### Featured
 
-- **Email:** [abdul.wajid.dev018@gmail.com](mailto:abdul.wajid.dev018@gmail.com)
-- **LinkedIn:** [linkedin.com/in/abdul-wajid-nasir](https://www.linkedin.com/in/abdul-wajid-nasir/)
+- [Adobe Certified Professional — Adobe Commerce Developer](https://certification.adobe.com/credential/verify/f0b96a0c-20f4-41eb-afce-3f57652fd913)
+- [LLM Engineering — TestDome](https://www.testdome.com/certificates/1fb841065c134868a41c887ec798a126)
+- [Prompt Engineering — TestDome](https://www.testdome.com/certificates/425622e7e4974da3a69fa39946ef0921)
+- [Python — TestDome](https://www.testdome.com/certificates/5cb428afdca0403898955fb9cf96855b)
+
+### Additional
+
+- [Python (Basic) — HackerRank](https://www.hackerrank.com/certificates/b49e7c93179f)
+- [Problem Solving (Intermediate)](https://www.hackerrank.com/certificates/2091bfb6021f)
+- [Problem Solving (Basic) — HackerRank](https://www.hackerrank.com/certificates/33744e4a879c)
+- [PHP — TestDome](https://www.testdome.com/certificates/3216eef7004e4cd39d3868a71086bc9e)
+
+---
+
+# Contact
+
+I'm open to remote opportunities involving backend engineering, Python/FastAPI, practical AI systems, SaaS products, Laravel/Vue.js, and Magento/Adobe Commerce.
+
 - **Portfolio:** [abdulwajid.vercel.app](https://abdulwajid.vercel.app/)
-- **Location:** Lahore, Punjab, Pakistan
-- **Work preference:** Remote roles, freelance, contract, and long-term client work
+- **LinkedIn:** [linkedin.com/in/abdul-wajid-nasir](https://www.linkedin.com/in/abdul-wajid-nasir/)
+- **Email:** [abdul.wajid.dev018@gmail.com](mailto:abdul.wajid.dev018@gmail.com)
+- **Location:** Lahore, Pakistan
+- **Availability:** Remote full-time · Contract · Selected freelance work
 
 ---
 
-<p align="left">
-  <strong>Backend APIs · AI Apps · SaaS Products · Laravel/Vue.js · Magento / Adobe Commerce</strong>
+<p align="center">
+  <strong>Backend Engineering · AI Systems · SaaS · Product Engineering · eCommerce</strong>
 </p>
