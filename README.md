@@ -192,4 +192,4 @@ University of the Punjab · 2017–2021
 - **LinkedIn:** [linkedin.com/in/abdul-wajid-nasir](https://www.linkedin.com/in/abdul-wajid-nasir/)
 - **Email:** [abdul.wajid.dev018@gmail.com](mailto\:abdul.wajid.dev018@gmail.com)
 - **Location:** Lahore, Pakistan
-- **Availability:** Remote full-time · Contract · Selected freelance work
+- **Availability:** Remote/On-site full-time · Contract · Freelance work
